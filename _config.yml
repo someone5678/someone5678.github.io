@@ -4,4 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - docs/*.md
+  - index.md
+  - docs/2023-07-04.md
